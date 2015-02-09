@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"dependencies": {
 		"classyjs": "git://github.com/peteonline/ClassyJS.git#*",
-		"classyjs": "git://github.com/peteonline/ClassyJS-Injector.git#*",
-		"classyjs": "git://github.com/peteonline/ClassyJS-Helpers.git#*"
+		"classyjs-injector": "git://github.com/peteonline/ClassyJS-Injector.git#*",
+		"classyjs-helpers": "git://github.com/peteonline/ClassyJS-Helpers.git#*"
 	}
 }
