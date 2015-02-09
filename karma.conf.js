@@ -3,7 +3,12 @@ module.exports = function(config) {
 		basePath: 'src',
 		files: [
 			'../vendor/classyjs/build/classy.js',
-			'SomeFile.js'
+			'../vendor/classyjs-injector/build/injector.js',
+			'Application.js',
+			'ApplicationTest.js',
+			'Application/IBootstrap.js',
+			'Application/IDispatchable.js',
+			'Application/IErrorHandler.js'
 		],
 		frameworks: ['jasmine'],
 		browsers: ['PhantomJS']
